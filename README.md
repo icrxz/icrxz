@@ -33,13 +33,13 @@
     Check out my others <b>Social Medias</b> and <b>Contacts</b>
   </samp>
   <br>
-  <a href="https://www.linkedin.com/in/igor-cruz-8a902711a/">
+  <a href="https://www.linkedin.com/in/igor-cruz-8a902711a/" target="_blank">
     <img alt="LinkdeIn" src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
   </a>
-  <a href="https://www.urionlinejudge.com.br/judge/pt/profile/144110">
+  <a href="https://www.urionlinejudge.com.br/judge/pt/profile/144110" target="_blank">
     <img alt="URI" src="https://img.icons8.com/fluent/48/000000/trophy.png" width="36"/>
   </a>
-  <a href="cruxstyle77@gmail.com">
+  <a href="cruxstyle77@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.icons8.com/office/30/000000/gmail-login.png"/>
   </a>
 </p>
