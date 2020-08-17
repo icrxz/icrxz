@@ -8,14 +8,15 @@
 
 <p align="center">
   <samp>
-    A Computer Engineering Student living in São Paulo/Brazil <br/>
-    Actually working at <a href="https://www.basement.io/" target="_blank">Basement</a> as a Software Engineer Intern
+    A Computer Engineering Student living in São Paulo/Brazil
+    <br>
+    Actually working at <a href="https://www.basement.io/" target="_blank">Basement</a> as a Software Engineering  Intern
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    <b>Fullstack Web Developer working and studyning on the following technologies</b>
+    <b>Fullstack Web Developer working and studying the following technologies</b>
   </samp>
   <br/>
   <img title="Ruby on Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="80"> 
