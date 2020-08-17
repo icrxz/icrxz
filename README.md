@@ -39,7 +39,7 @@
   <a href="https://www.urionlinejudge.com.br/judge/pt/profile/144110" target="_blank">
     <img alt="URI" src="https://img.icons8.com/fluent/48/000000/trophy.png" width="36"/>
   </a>
-  <a href="cruxstyle77@gmail.com" target="_blank">
+  <a href="mailto:cruxstyle77@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.icons8.com/office/30/000000/gmail-login.png"/>
   </a>
 </p>
