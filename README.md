@@ -44,5 +44,8 @@
   </a>
 </p>
 
+# My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icrxz&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icrxz&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs" />
+</div>
