@@ -10,7 +10,7 @@
   <samp>
     A Computer Engineering Student living in São Paulo/Brazil
     <br>
-    Actually working at <a href="https://www.basement.io/" target="_blank">Basement</a> as a Software Engineering  Intern
+    Actually working at <a href="https://www.mercadolivre.com.br" target="_blank">Mercado Livre</a> as a Software Developer Analyst
   </samp>
 </p>
 
