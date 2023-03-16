@@ -10,7 +10,7 @@
   <samp>
     A Computer Engineering Student living in São Paulo/Brazil
     <br>
-    Actually working at <a href="https://www.mercadolivre.com.br" target="_blank">Mercado Livre</a> as a Software Developer Analyst
+    Actually working at <a href="https://www.mercadolivre.com.br" target="_blank">Mercado Livre</a> as a Software Engineer
   </samp>
 </p>
 
